@@ -1,2 +1,2 @@
 # contatos
-Aplicação desktop para salvar contatos.
+Configurar o caminho do arquivo "contatos.db" no componente "dbConnection"
